@@ -9,7 +9,7 @@ here are a few things i'm working on! i have little time to work on anything so 
 - [golab](https://github.com/vocatart/golab) - htk and textgrid handling for golang
 - [quickdoze](https://github.com/vocatart/quickdoze) - slow java & world based resampler
 
-i also public all my scripts for praat and svstudio
+i also publish all my scripts for praat and svstudio
 
 - [synthv-scripts](https://github.com/vocatart/synthv-scripts)
 - [praat-scripts](https://github.com/vocatart/praat-scripts)
